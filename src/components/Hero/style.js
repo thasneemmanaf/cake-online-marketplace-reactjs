@@ -14,3 +14,49 @@ export const HeroContent = styled.div`
   max-height: 100%;
   padding: 0rem calc((100vw - 1300px) / 2);
 `;
+
+export const HeroItems = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  max-height: 100%;
+  padding: 0 2rem;
+  width: 650px;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 1;
+  font-weight: bold;
+  @media screen and (max-width: 650px) {
+    width: 100%;
+  }
+`;
+
+export const HeroH1 = styled.h1`
+  font-size: clamp(1rem, 10vw, 2.5rem);
+  margin-bottom: 1rem;
+  box-shadow: 3px 5px #e9ba23;
+  letter-spacing: 3px;
+`;
+
+export const HeroP = styled.p`
+  font-size: clamp(0.8rem, 2.5vw, 1.5rem);
+  margin-bottom: 2rem;
+`;
+
+export const HeroBtn = styled.button`
+  font-size: 1.3rem;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  border: none;
+  background: #e31837;
+  color: #fff;
+  transition: 0.2s ease-out;
+  &:hover {
+    background: #ffc500;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+    color: #000;
+  }
+`;
