@@ -1,10 +1,17 @@
 import React from 'react';
+import { Nav, NavLink, NavIcon, Bars } from './style';
 
 function Navbar() {
   return (
-    <div>
-      <h1>navbar</h1>
-    </div>
+    <>
+      <Nav>
+        <NavLink to="/">Cake</NavLink>
+        <NavIcon>
+          <p>Menu</p>
+          <Bars />
+        </NavIcon>
+      </Nav>
+    </>
   );
 }
 
