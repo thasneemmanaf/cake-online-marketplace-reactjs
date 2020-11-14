@@ -5,7 +5,7 @@ function Navbar({ toggle }) {
   return (
     <>
       <Nav>
-        <NavLink to="/">Cake</NavLink>
+        <NavLink to="/">Cakey</NavLink>
         <NavIcon onClick={toggle}>
           <p>Menu</p>
           <Bars />
