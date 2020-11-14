@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const ProductsContainer = styled.div`
-  /* width: 100vw; */
   min-height: 100vh;
   padding: 5rem calc((100vw - 1300px) / 2);
   background: #150f0f;
@@ -62,6 +61,7 @@ export const ProductButton = styled.button`
   padding: 1rem 4rem;
   border: none;
   background: #e31837;
+  border-radius: 10px;
   color: #fff;
   transition: 0.2 ease-out;
   &:hover {
