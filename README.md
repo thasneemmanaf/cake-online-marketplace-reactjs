@@ -2,14 +2,15 @@
 Cakey - An Online Cake Marketplace
 </h1>
 <p align="center">
- ReactJS, styled-components
+ ReactJS, styled-components, React Router
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-Cakey is an online marketplace responsive application created using ReactJS and styled-components.
+Cakey is an online marketplace application created using ReactJS and styled-components. It is modern and responsive.
+[Click here to check out Cakey](https://cakey.netlify.app/)
 
-- [Goto Cakey](https://cakey.netlify.app/)
+# Available Features!
 
 - List products
 - List Featured cakes
@@ -24,6 +25,8 @@ Cakey is an online marketplace responsive application created using ReactJS and 
 
 - [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [styled-components](https://styled-components.com/) - A Modern way to write CSS in Javascript.
+- [React Router](https://reactrouter.com/) - A tool that allows you to handle routes in a web app, using dynamic routing.
+- [React Icons](https://react-icons.github.io/react-icons/) - Popular icons for React projects.
 
 ### Installation
 
