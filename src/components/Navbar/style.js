@@ -12,7 +12,7 @@ export const Nav = styled.nav`
 
 export const NavLink = styled(Link)`
   color: #fff;
-  font-size: 2rem;
+  font-size: 3rem;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -34,6 +34,7 @@ export const NavIcon = styled.div`
   p {
     transform: translate(-175%, 100%);
     font-weight: bold;
+    font-size: 1.2rem;
   }
 `;
 
