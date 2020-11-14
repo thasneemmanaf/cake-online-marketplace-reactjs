@@ -9,28 +9,28 @@ export const productData = [
   {
     img: product1,
     alt: 'Cake',
-    name: 'Supreme Cake',
+    name: 'Royal Wedding Cake',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '19.99 kr',
+      'Two layers of moist vanilla cake are topped with a creamy vanilla frosting',
+    price: '249.99 kr',
     button: 'Add to Cart'
   },
   {
     img: product2,
     alt: 'Cake',
-    name: 'Hawaiian Paradise',
+    name: 'Vanilla Bean Cake',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '16.99 kr',
+      ' The perfect cake for those who prefer a light , soft and refreshing taste',
+    price: '160.99 kr',
     button: 'Add to Cart'
   },
   {
     img: product3,
     alt: 'Cake',
-    name: 'Veggie Overload',
+    name: 'Rainbow Cake',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '14.99 kr',
+      ' Our delicious Rainbow Cake in 6 layers of sweet strawberry flavored cake ',
+    price: '69.99 kr',
     button: 'Add to Cart'
   }
 ];
@@ -42,7 +42,7 @@ export const productDataTwo = [
     name: 'Doughlicious',
     desc:
       'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: '9.99 kr',
+    price: '19.99 kr',
     button: 'Add to Cart'
   },
   {
@@ -51,7 +51,7 @@ export const productDataTwo = [
     name: 'Caramel Wonder',
     desc:
       'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
-    price: '12.99 kr',
+    price: '49.99 kr',
     button: 'Add to Cart'
   },
   {
@@ -60,7 +60,7 @@ export const productDataTwo = [
     name: 'Brownie Bunch',
     desc:
       'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: '9.99 kr',
+    price: '33.99 kr',
     button: 'Add to Cart'
   }
 ];
