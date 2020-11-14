@@ -7,7 +7,7 @@ Cakey - An Online Cake Marketplace
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-Cakey is an online marketplace application created using ReactJS and styled-components. It is modern and responsive.
+Cakey is an online marketplace application created using ReactJS and styled-components. It is a modern and responsive web application.
 [Click here to check out Cakey](https://cakey.netlify.app/)
 
 # Available Features!
