@@ -1,5 +1,5 @@
 <h1 align="center">
-Online Cake Marketplace
+Cakey - An Online Cake Marketplace
 </h1>
 <p align="center">
  ReactJS, styled-components
@@ -15,8 +15,8 @@ Cakey is an online marketplace responsive application created using ReactJS and 
 # Coming Features!
 
 - Replace static product details with Contentful's API
-- Enable 'Place Order' button
-- Implement stipe for checkout
+- Enable 'Place Order' button and Cart
+- Implement Stripe for checkout
 
 ### Tech
 
