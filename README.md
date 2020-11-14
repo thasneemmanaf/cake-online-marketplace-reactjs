@@ -9,6 +9,8 @@ Cakey - An Online Cake Marketplace
 
 Cakey is an online marketplace responsive application created using ReactJS and styled-components.
 
+- [Goto Cakey](https://cakey.netlify.app/)
+
 - List products
 - List Featured cakes
 
